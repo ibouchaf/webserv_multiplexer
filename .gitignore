@@ -1,0 +1,11 @@
+.vscode
+*.o
+*.out
+*.so
+*.swp
+./.vscode/*
+./**/*.o
+./**/*.out
+./**/*.so
+./**/*.swp
+./**/.vscode/*
